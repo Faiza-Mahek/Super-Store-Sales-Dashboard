@@ -1,3 +1,3 @@
-**#Super Store Sales Analysis Dashboard#**
-The Super Store Sales Dashboard provides a comprehensive overview of sales and profit metrics, including monthly trends, sales by category and subcategory, and distribution by state and payment mode.
-Key performance indicators such as total sales, profit, quantity sold, and average delivery time are also highlighted.
+# Super Store Sales Analysis Dashboard
+
+Welcome to the **Super Store Sales Analysis Dashboard** repository! This dashboard provides a comprehensive overview of sales and profit metrics, enabling insightful analysis of business performance.
